@@ -4,6 +4,8 @@ import HeroSection from './components/HeroSection'
 import Features from './components/Features'
 import Workflow from './components/Work-flow'
 import Pricing from './components/Pricing'
+import Testimonials from './components/Testimonials'
+import Footer from './components/Footer'
 function App() {
 
   return (
@@ -17,6 +19,8 @@ function App() {
         <Features/>
         <Workflow/>
         <Pricing/>
+        <Testimonials/>
+        <Footer/>
     </BrowserRouter>
     </>
   )

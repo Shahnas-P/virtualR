@@ -8,4 +8,5 @@
  - Feature section builded
  - Work-flow section builded 
  - Pricing section
- 
+ - Testimonials Section
+ - Footer
