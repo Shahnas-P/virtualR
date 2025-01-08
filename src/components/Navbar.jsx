@@ -47,7 +47,7 @@ function Navbar() {
                     
                      
                     </ul>
-                    <div className="flex space-x-6">
+                    <div className="flex space-x-6 justify-center">
                       <button className="py-2 px-3 border rounded-md">
                         SignIn
                       </button>
