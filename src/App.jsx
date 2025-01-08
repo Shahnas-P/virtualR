@@ -1,6 +1,7 @@
 import { BrowserRouter } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import HeroSection from './components/HeroSection'
+import Features from './components/Features'
 function App() {
 
   return (
@@ -11,6 +12,7 @@ function App() {
     <HeroSection/>
    
         </div>
+        <Features/>
     </BrowserRouter>
     </>
   )

@@ -5,3 +5,5 @@
  - created Nav-bar component 
  - created Hero-section component 
  - Video section
+ - Feature section builded
+ 
