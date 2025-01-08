@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import HeroSection from './components/HeroSection'
 import Features from './components/Features'
 import Workflow from './components/Work-flow'
+import Pricing from './components/Pricing'
 function App() {
 
   return (
@@ -15,6 +16,7 @@ function App() {
         </div>
         <Features/>
         <Workflow/>
+        <Pricing/>
     </BrowserRouter>
     </>
   )

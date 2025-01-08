@@ -6,4 +6,6 @@
  - created Hero-section component 
  - Video section
  - Feature section builded
- - Work-flow section builded
+ - Work-flow section builded 
+ - Pricing section
+ 
