@@ -2,6 +2,7 @@ import { BrowserRouter } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import HeroSection from './components/HeroSection'
 import Features from './components/Features'
+import Workflow from './components/Work-flow'
 function App() {
 
   return (
@@ -13,6 +14,7 @@ function App() {
    
         </div>
         <Features/>
+        <Workflow/>
     </BrowserRouter>
     </>
   )
